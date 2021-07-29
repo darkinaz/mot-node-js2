@@ -9,3 +9,5 @@ testas = function labas(){
 
 testas();
 labas();
+
+
