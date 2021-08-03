@@ -1,5 +1,7 @@
 const fs = require("fs");
 console.log("start");
+
+let allData = "";
 fs.readFile("a.txt", (err, data) => {
     if (err) {
         console.log("Klaida", err);
